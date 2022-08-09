@@ -1,2 +1,3 @@
 # forimage
-just for image load
+just for  typora image  store
+ 
